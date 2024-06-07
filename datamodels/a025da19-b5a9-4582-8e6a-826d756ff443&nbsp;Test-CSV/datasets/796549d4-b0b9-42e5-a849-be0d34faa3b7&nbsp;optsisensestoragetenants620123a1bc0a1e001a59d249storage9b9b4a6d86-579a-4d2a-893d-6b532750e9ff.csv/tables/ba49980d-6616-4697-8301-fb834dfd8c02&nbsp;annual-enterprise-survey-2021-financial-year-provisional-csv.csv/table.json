@@ -1,0 +1,148 @@
+{
+    "buildBehavior": {
+        "type": "sync"
+    },
+    "columns": [
+        {
+            "hidden": false,
+            "id": "Year",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Year",
+            "oid": "a6fafb50-0a64-4c54-8e68-6995d3ee6137",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "Industry_aggregation_NZSIOC",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Industry_aggregation_NZSIOC",
+            "oid": "809c4458-aabc-4606-aff5-8be66dd2d8f8",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Industry_code_NZSIOC",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Industry_code_NZSIOC",
+            "oid": "f53a097e-06c5-450e-acbb-31a34293c7ba",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Industry_name_NZSIOC",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Industry_name_NZSIOC",
+            "oid": "c695d327-d821-4e51-b214-df16af16db6c",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Units",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Units",
+            "oid": "7a3c87de-474b-4992-800a-b69c934897b9",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Variable_code",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Variable_code",
+            "oid": "82c6a3de-e970-4b01-8503-c17dc77e2cd7",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Variable_name",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Variable_name",
+            "oid": "34628060-0d9a-4788-af28-e12c48f0753a",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Variable_category",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Variable_category",
+            "oid": "ebf596d6-a1b3-4561-8b52-5e8008bc5824",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Value",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Value",
+            "oid": "0f26d20b-7a84-4df7-b8e2-823a2f7d6bd4",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        },
+        {
+            "hidden": false,
+            "id": "Industry_code_ANZSIC06",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "Industry_code_ANZSIC06",
+            "oid": "2a8c8e88-9789-4aae-a49a-6b66a718e81b",
+            "precision": 0,
+            "scale": 0,
+            "size": 0,
+            "type": 18
+        }
+    ],
+    "configOptions": {
+        "columnsDateTimePatterns": "{}",
+        "culture": "en-US",
+        "delimiter": ",",
+        "excludeIfBegins": "",
+        "excludeIfContains": "",
+        "hasHeader": true,
+        "ignoreFirstRows": "",
+        "ignoreMissingColumns": false,
+        "stringQuote": "\""
+    },
+    "dataset": "796549d4-b0b9-42e5-a849-be0d34faa3b7",
+    "hidden": false,
+    "id": "9b4a6d86-579a-4d2a-893d-6b532750e9ff.csv",
+    "isMaterialized": false,
+    "name": "annual-enterprise-survey-2021-financial-year-provisional-csv.csv",
+    "oid": "ba49980d-6616-4697-8301-fb834dfd8c02",
+    "schemaName": "/opt/sisense/storage/tenants/620123a1bc0a1e001a59d249/storage/9b/9b4a6d86-579a-4d2a-893d-6b532750e9ff.csv",
+    "tupleTransformations": [
+    ],
+    "type": "base"
+}

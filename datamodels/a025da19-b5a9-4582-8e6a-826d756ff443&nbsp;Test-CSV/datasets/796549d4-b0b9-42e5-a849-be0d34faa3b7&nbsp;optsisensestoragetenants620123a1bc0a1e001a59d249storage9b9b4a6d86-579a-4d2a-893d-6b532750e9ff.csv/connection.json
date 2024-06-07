@@ -1,0 +1,28 @@
+{
+    "connectionPermissions": [
+        "OWNER",
+        "READ"
+    ],
+    "created": "2024-04-29T14:00:13.571+00:00",
+    "createdByUser": true,
+    "description": "",
+    "enabled": true,
+    "lastModified": "2024-04-29T14:00:13.571+00:00",
+    "name": "CSV - 2406030607",
+    "oid": "ab8b807f-4c81-4ad2-9ba2-36538557dce6",
+    "ownerId": "620123a1bc0a1e001a59d23c",
+    "provider": "CSV",
+    "shares": [
+        {
+            "permission": "OWNER",
+            "principal": {
+                "id": "620123a1bc0a1e001a59d23c",
+                "type": "USER"
+            }
+        }
+    ],
+    "supportedOperations": [
+        "EXTRACT"
+    ],
+    "tenantId": "620123a1bc0a1e001a59d249"
+}

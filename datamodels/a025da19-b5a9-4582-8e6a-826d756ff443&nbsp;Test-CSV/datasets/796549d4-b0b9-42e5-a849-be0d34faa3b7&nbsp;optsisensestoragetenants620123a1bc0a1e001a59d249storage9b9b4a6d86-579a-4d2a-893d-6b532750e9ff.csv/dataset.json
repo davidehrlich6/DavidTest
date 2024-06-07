@@ -1,0 +1,11 @@
+{
+    "connection": "./connection.json",
+    "database": "annual-enterprise-survey-2021-financial-year-provisional-csv.csv",
+    "elasticube": "a025da19-b5a9-4582-8e6a-826d756ff443",
+    "oid": "796549d4-b0b9-42e5-a849-be0d34faa3b7",
+    "schemaName": "/opt/sisense/storage/tenants/620123a1bc0a1e001a59d249/storage/9b/9b4a6d86-579a-4d2a-893d-6b532750e9ff.csv",
+    "tables": [
+        "./ba49980d-6616-4697-8301-fb834dfd8c02/table.json"
+    ],
+    "type": "extract"
+}

@@ -1,0 +1,32 @@
+{
+    "buildDestination": {
+        "destination": "elasticube"
+    },
+    "datasets": [
+        "./796549d4-b0b9-42e5-a849-be0d34faa3b7/dataset.json"
+    ],
+    "dependencies": {
+        "perspectives": [
+            "./a025da19-b5a9-4582-8e6a-826d756ff443/perspective.json"
+        ]
+    },
+    "experiments": {
+    },
+    "fiscal": "system",
+    "hierarchies": [
+    ],
+    "modelStatistics": {
+        "allTablesPerCollection": true,
+        "enableModelStatistics": true,
+        "maxTablesPerCollection": null,
+        "recollectStatsInterval": null
+    },
+    "oid": "a025da19-b5a9-4582-8e6a-826d756ff443",
+    "relationType": "direct",
+    "relations": "./relations.json",
+    "relationsTables": [
+    ],
+    "schemaId": null,
+    "title": "Test-CSV",
+    "type": "extract"
+}
